@@ -7,6 +7,8 @@ Download
 -----
 GitHub: [https://github.com/ixiaoyang8/iodraw/releases](https://github.com/ixiaoyang8/iodraw/releases)
 
+Google Play: [https://play.google.com/store/apps/details?id=com.iodraw.app](https://play.google.com/store/apps/details?id=com.iodraw.app)
+
 Sourceforge: [https://sourceforge.net/projects/iodraw](https://sourceforge.net/projects/iodraw)
 
 Baidu Netdisk: [https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug), extraction code: draw
