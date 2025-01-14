@@ -17,4 +17,4 @@ Gitee: [https://gitee.com/ixiaoyang8/iodraw/releases](https://gitee.com/ixiaoyan
 
 [![](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9ph1xmkz2f7q?mode=direct)
 
-[![Download ioDraw](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/iodraw/files/v3.3.1/)
+[![Download ioDraw](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/iodraw)
