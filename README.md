@@ -13,6 +13,8 @@ Sourceforge: [https://sourceforge.net/projects/iodraw](https://sourceforge.net/p
 
 Baidu Netdisk: [https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug), extraction code: draw
 
+GitCode：[https://gitcode.com/ixiaoyang/iodraw/releases](https://gitcode.com/ixiaoyang/iodraw/releases)
+
 Gitee: [https://gitee.com/ixiaoyang8/iodraw/releases](https://gitee.com/ixiaoyang8/iodraw/releases)
 
 [![](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9ph1xmkz2f7q?mode=direct)
