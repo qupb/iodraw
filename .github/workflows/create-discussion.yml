@@ -1,0 +1,19 @@
+name: Create Discussion for Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  create-discussion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Discussion
+        uses: gr2m/create-discussion-action@v2
+        with:
+          repository: ${{ github.repository }}
+          title: "Discussion for Release ${{ github.event.release.tag_name }}"
+          body: "This is a discussion thread for the latest release: [${{ github.event.release.tag_name }}](${{ github.event.release.html_url }})\n\nShare your feedback, report issues, or ask questions!"
+          category: "Announcements"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
