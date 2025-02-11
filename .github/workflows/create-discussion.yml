@@ -2,7 +2,7 @@ name: Create Discussion for Release
 
 on:
   release:
-    types: [published, edited]  # 监听发布和更新事件
+    types: [published]
 
 jobs:
   create-discussion:
@@ -13,10 +13,7 @@ jobs:
         with:
           repository: ${{ github.repository }}
           title: "Discussion for Release ${{ github.event.release.tag_name }}"
-          body: |
-            This is a discussion thread for the latest release: [${{ github.event.release.tag_name }}](${{ github.event.release.html_url }})
-            
-            Share your feedback, report issues, or ask questions!
+          body: "This is a discussion thread for the latest release: [${{ github.event.release.tag_name }}](${{ github.event.release.html_url }})\n\nShare your feedback, report issues, or ask questions!"
           category: "Announcements"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
