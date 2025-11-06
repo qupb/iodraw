@@ -11,7 +11,9 @@ Google Play: [https://play.google.com/store/apps/details?id=com.iodraw.app](http
 
 Sourceforge: [https://sourceforge.net/projects/iodraw](https://sourceforge.net/projects/iodraw)
 
-Baidu Netdisk: [https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug), extraction code: draw
+Baidu Netdisk: [https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug?pwd=draw](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug?pwd=draw), extraction code: draw
+
+Quark Netdisk：[https://pan.quark.cn/s/6229b93c70d0](https://pan.quark.cn/s/6229b93c70d0)
 
 GitCode：[https://gitcode.com/ixiaoyang/iodraw/releases](https://gitcode.com/ixiaoyang/iodraw/releases)
 
